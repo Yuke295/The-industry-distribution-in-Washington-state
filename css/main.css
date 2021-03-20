@@ -61,11 +61,17 @@ html, body, #map {
 }
 
 #placename {
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+
+#intro {
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
 
-#placename_intro {
+#data {
+  margin-top: 10px;
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
@@ -89,6 +95,14 @@ html, body, #map {
   top: 20px;
 }
 
+#footer {
+  margin-top: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+  line-height: 150%;
+  color: lightgray;
+}
+
 /* bar chart */
 text {
   fill: gray
@@ -107,10 +121,34 @@ text {
   color: black
 }
 
-#footer {
-  margin-top: 50px;
-  margin-right: 10px;
-  font-size: 18px;
-  line-height: 150%;
-  color: lightgray;
+.legend {
+    line-height: 20px;
+    width: 160px;
+    color: #333333;
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255,255,255,0.5);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+.legend i {
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.9;
+}
+
+.legend img {
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+    float: left;
+}
+
+.legend p {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
 }

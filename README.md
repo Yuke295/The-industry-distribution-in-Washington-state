@@ -16,16 +16,16 @@ For this project, I wanted to explore the relationship between the distribution 
 
 ## Data Sources
 
-- https://www.washingtonwine.org/explore/map
-- https://hub.arcgis.com/datasets/puyallup::wsda-crop-distribution/data?geometry=-141.507%2C44.590%2C-99.693%2C49.809
-- https://geo.wa.gov/datasets/WSDOT::wsdot-aviation-businesses?geometry=-144.018%2C44.632%2C-97.568%2C49.847
-- https://geo.wa.gov/datasets/26add7da921d4aa68ccb50ce191c6182_0?geometry=-131.539%2C45.989%2C-108.314%2C48.597
-- https://geo.wa.gov/datasets/WSDOT::wsdot-alpaca-census-county-2010?geometry=-141.725%2C44.623%2C-99.911%2C49.839
+- [Washington Wine Map](https://www.washingtonwine.org/explore/map)
+- [WSDA Crop Distribution - ArcGIS Hub](https://hub.arcgis.com/datasets/puyallup::wsda-crop-distribution/data?geometry=-141.507%2C44.590%2C-99.693%2C49.809)
+- [WSDOT - Aviation Businesses](https://geo.wa.gov/datasets/WSDOT::wsdot-aviation-businesses?geometry=-144.018%2C44.632%2C-97.568%2C49.847)
+- [WSDOT - WA Dairies](https://geo.wa.gov/datasets/26add7da921d4aa68ccb50ce191c6182_0?geometry=-131.539%2C45.989%2C-108.314%2C48.597)
+- [WSDOT - ALPACA Census County (2010)](https://geo.wa.gov/datasets/WSDOT::wsdot-alpaca-census-county-2010?geometry=-141.725%2C44.623%2C-99.911%2C49.839)
 
 
 ## Applied Libraries and Web Services
-- c3
-- d3
+<!-- - c3
+- d3 -->
 - leaflet
 - JQuery
 - Bootstrap
