@@ -161,3 +161,7 @@ text {
     line-height: 16px;
     margin: 0;
 }
+
+.page{
+  overflow: auto;
+}
