@@ -33,3 +33,6 @@ For this project, I wanted to explore the relationship between the distribution 
 - Github
 
 ## Acknowledgement
+I am really greatful to have the oppotunity to learn from Professor Bo Zhao in Geography 458 at the University of Washington. Thank you our TA Tyler McCrea for helping me this whole quarter.
+
+I will keep exploring more sources for this topic and will keep updating.
