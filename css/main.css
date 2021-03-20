@@ -65,6 +65,11 @@ html, body, #map {
   font-family: 'Oswald', sans-serif;
 }
 
+#placename_intro {
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
 /* card decks */
 #desc {
   text-align: center;
